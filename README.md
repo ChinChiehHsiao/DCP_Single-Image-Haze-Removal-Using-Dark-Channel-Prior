@@ -1,5 +1,4 @@
 # (2011) DCP_Single-Image-Haze-Removal-Using-Dark-Channel-Prior
-![My Image](https://github.com/user-attachments/assets/b227a9b6-a7d6-4664-b51c-cffbf8d99d30)
 ![compare](https://github.com/user-attachments/assets/08dc9f37-f159-4363-9dd4-a240acdbf4d0)
 
 
