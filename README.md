@@ -7,7 +7,7 @@ References : HE, Kaiming; SUN, Jian; TANG, Xiaoou. Single image haze removal usi
 暗通道先驗圖像去霧文章復現<br>
 使用python<br><br>
 - 原文PDF &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：[點擊此連結](https://mmlab.ie.cuhk.edu.hk/archive/2011/Haze.pdf)
-- 原文DOI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：[點擊此連結](https://doi.org/10.1109/TPAMI.2010.168)
+- 原文DOI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：[點擊此連結](https://doi.org/10.1109/TPAMI.2010.168)<br><br>
 
 
 操作說明 
