@@ -2,6 +2,7 @@
 ![compare](https://github.com/user-attachments/assets/4b746475-9951-48d8-ac08-85ff9cfa873a)<br><br>
 ![compare 2](https://github.com/user-attachments/assets/a7f97f8d-5d0d-4171-9873-8b66655423c9)
 ![compare 3](https://github.com/user-attachments/assets/850f0618-7858-48e7-a5bc-fc9aac2beaa8)
+![compare 4](https://github.com/user-attachments/assets/23aa50c4-ef5c-4067-9bd2-b06feb997375)
 
 
 Reference : HE, Kaiming; SUN, Jian; TANG, Xiaoou. Single image haze removal using dark channel prior. IEEE transactions on pattern analysis and machine intelligence, 2010, 33.12: 2341-2353.<br><br>
