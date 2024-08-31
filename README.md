@@ -1,6 +1,7 @@
 # (2011) DCP_Single-Image-Haze-Removal-Using-Dark-Channel-Prior
 ![compare](https://github.com/user-attachments/assets/4b746475-9951-48d8-ac08-85ff9cfa873a)<br><br>
-![Uploading compare 2.png…]()
+![compare 2](https://github.com/user-attachments/assets/1e024618-a995-4c52-ad1a-5a9bcd389937)
+
 
 
 References : HE, Kaiming; SUN, Jian; TANG, Xiaoou. Single image haze removal using dark channel prior. IEEE transactions on pattern analysis and machine intelligence, 2010, 33.12: 2341-2353.<br><br>
