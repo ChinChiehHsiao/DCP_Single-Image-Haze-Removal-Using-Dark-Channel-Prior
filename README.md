@@ -4,7 +4,7 @@
 ![compare 3](https://github.com/user-attachments/assets/850f0618-7858-48e7-a5bc-fc9aac2beaa8)
 
 
-References : HE, Kaiming; SUN, Jian; TANG, Xiaoou. Single image haze removal using dark channel prior. IEEE transactions on pattern analysis and machine intelligence, 2010, 33.12: 2341-2353.<br><br>
+Reference : HE, Kaiming; SUN, Jian; TANG, Xiaoou. Single image haze removal using dark channel prior. IEEE transactions on pattern analysis and machine intelligence, 2010, 33.12: 2341-2353.<br><br>
 暗通道先驗圖像去霧文章復現<br>
 使用python<br><br>
 - 原文PDF &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：[點擊此連結](https://mmlab.ie.cuhk.edu.hk/archive/2011/Haze.pdf)
