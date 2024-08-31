@@ -19,7 +19,7 @@ References : HE, Kaiming; SUN, Jian; TANG, Xiaoou. Single image haze removal usi
 result檔案名稱說明
 ---
 - 原圖名稱
-- DCP_dehaze &nbsp; : 最終去霧結果圖
+- DCP_dehaze &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 最終去霧結果圖
 - All detail image : 依序為  原圖, 原圖暗通道, 原圖/A, (原圖/A)暗通道, ((原圖/A)暗通道)local max, 初估的transmission, 使用guided filter refine的transmission, 最終去霧結果圖<br><br>
 
 ---
