@@ -6,8 +6,8 @@
 References : HE, Kaiming; SUN, Jian; TANG, Xiaoou. Single image haze removal using dark channel prior. IEEE transactions on pattern analysis and machine intelligence, 2010, 33.12: 2341-2353.<br><br>
 暗通道先驗圖像去霧文章復現<br>
 使用python<br><br>
-- 原文PDF &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：[點擊此連結](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7128396)
-- 原文DOI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：[點擊此連結](https://doi.org/10.1109/TIP.2015.2446191)
+- 原文PDF &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：[點擊此連結](https://mmlab.ie.cuhk.edu.hk/archive/2011/Haze.pdf)
+- 原文DOI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：[點擊此連結](https://doi.org/10.1109/TPAMI.2010.168)
 - 原作者code &nbsp;：[點擊此連結](https://github.com/JiamingMai/Color-Attenuation-Prior-Dehazing)<br><br>
 
 
