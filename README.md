@@ -1,4 +1,4 @@
-# (2011) DCP_Single-Image-Haze-Removal-Using-Dark-Channel-Prior
+# (2011) DCP_Single Image Haze Removal Using Dark Channel Prior
 ![compare](https://github.com/user-attachments/assets/4b746475-9951-48d8-ac08-85ff9cfa873a)<br><br>
 ![compare 2](https://github.com/user-attachments/assets/a7f97f8d-5d0d-4171-9873-8b66655423c9)
 
